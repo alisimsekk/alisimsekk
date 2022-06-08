@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alisimsekk
+- 👋 Hi, I’m Ali ŞİMŞEK
 - 👀 I’m interested in java programming language and backend.
 - 🌱 I’m currently learning java, database, sql.
 - 📫 How to reach me ali.simsek035@gmail.com
